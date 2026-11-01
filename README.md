@@ -2,7 +2,7 @@
 
 Windows playtest downloads.
 
-**[Download ZHIVI Launcher](https://github.com/jsgdigital1/zhivi-playtest/releases/latest/download/ZHIVI%20Launcher.exe)**
+**[Download ZHIVI Launcher](https://github.com/jsgdigital1/zhivi-playtest/releases/latest/download/ZHIVI.Launcher.exe)**
 
 1. Save and open the launcher on a Windows 10/11 computer (64-bit).
 2. Choose **Install game**. Once the download finishes, choose **Play**.
