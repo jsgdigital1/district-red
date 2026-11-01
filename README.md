@@ -4,7 +4,7 @@ Windows playtest downloads.
 
 **Survive. Reclaim. Restore.**
 
-**[Download District Red Launcher](https://github.com/jsgdigital1/zhivi-playtest/releases/download/launcher-v1.1.0/District.Red.Launcher.exe)**
+**[Download District Red Launcher](https://github.com/jsgdigital1/zhivi-playtest/releases/download/launcher-v1.1.1/District.Red.Launcher.exe)**
 
 1. Save and open the launcher on a Windows 10/11 computer (64-bit).
 2. Choose **Install game**. Once the download finishes, choose **Play**.
@@ -21,7 +21,7 @@ Framework 4.8, included in current Windows 10/11 installations.
 The campaign supports solo play and host/join co-op, with proximity/radio voice.
 Co-op remains a playtest: extended four-player and WAN acceptance are still pending.
 Close the game before a game update. Launcher-only updates can run while the game
-stays open. Launcher 1.1.0 checks and updates itself separately, with verified
+stays open. Launcher 1.1 and later check and update themselves separately, with verified
 downloads and rollback if startup fails. Older launchers need this one-time download
 to get the new **Update launcher** option; existing settings and game files are kept.
 
