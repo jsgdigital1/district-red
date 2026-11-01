@@ -1,8 +1,10 @@
-# ZHIVI — First Shelter
+# District Red
 
 Windows playtest downloads.
 
-**[Download ZHIVI Launcher](https://github.com/jsgdigital1/zhivi-playtest/releases/latest/download/ZHIVI.Launcher.exe)**
+**Survive. Reclaim. Restore.**
+
+**[Download District Red Launcher](https://github.com/jsgdigital1/zhivi-playtest/releases/latest/download/District.Red.Launcher.exe)**
 
 1. Save and open the launcher on a Windows 10/11 computer (64-bit).
 2. Choose **Install game**. Once the download finishes, choose **Play**.
@@ -15,10 +17,12 @@ are retained. **Repair** replaces damaged game files without touching your saves
 Godot, Blender and a GitHub account are not required. The launcher uses .NET
 Framework 4.8, included in current Windows 10/11 installations.
 
-The current exported campaign is single-player. Co-op remains in development;
-automatic reconnect and updates during a running session are not included yet.
+The campaign supports solo play and host/join co-op, with proximity/radio voice.
+Co-op remains a playtest: extended four-player and WAN acceptance are still pending.
+Close the game before updating. Download the new launcher to update its branding;
+the game updater does not replace the launcher executable itself.
 
-Game saves: `%APPDATA%\ZHIVI Playtest`  
+Game saves: `%APPDATA%\ZHIVI Playtest`
 Game installation: `%LOCALAPPDATA%\ZHIVI\Launcher`
 
 This repository distributes compiled playtest builds. The development repository
