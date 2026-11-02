@@ -4,7 +4,7 @@ Windows playtest downloads.
 
 **Survive. Reclaim. Restore.**
 
-**[Download District Red Launcher](https://github.com/jsgdigital1/zhivi-playtest/releases/download/launcher-v1.1.1/District.Red.Launcher.exe)**
+**[Download District Red Launcher](https://github.com/jsgdigital1/zhivi-playtest/releases/download/launcher-v1.2.0/District.Red.Launcher.exe)**
 
 1. Save and open the launcher on a Windows 10/11 computer (64-bit).
 2. Choose **Install game**. Once the download finishes, choose **Play**.
@@ -14,6 +14,9 @@ Windows playtest downloads.
 Window mode, resolution and frame limit are saved automatically. An installed
 game can be played offline. Interrupted downloads can be retried; completed parts
 are retained. **Repair** replaces damaged game files without touching your saves.
+Launcher 1.2 and later reuse verified chunks of installed game data for releases
+packaged with the newer tools, reducing patch downloads. First installs require the
+full content; older published packages still use whole-file updates.
 
 Godot, Blender and a GitHub account are not required. The launcher uses .NET
 Framework 4.8, included in current Windows 10/11 installations.
