@@ -4,34 +4,38 @@ Windows playtest downloads.
 
 **Survive. Reclaim. Restore.**
 
-**[Download District Red Launcher](https://github.com/jsgdigital1/zhivi-playtest/releases/download/launcher-v1.2.0/District.Red.Launcher.exe)**
+**[Download District Red Launcher](https://github.com/jsgdigital1/district-red/releases/download/launcher-v1.3.0/District.Red.Launcher.exe)**
 
 1. Save and open the launcher on a Windows 10/11 computer (64-bit).
-2. Choose **Install game**. Once the download finishes, choose **Play**.
+2. On the **DISTRICT RED** tab, choose **Install game**. Once the download finishes, choose **Play**.
 3. Open the launcher again to check for updates. Close the game before installing an update.
 4. When **Update launcher** appears, select it to update and reopen the launcher automatically.
 
-Window mode, resolution and frame limit are saved automatically. An installed
-game can be played offline. Interrupted downloads can be retried; completed parts
-are retained. **Repair** replaces damaged game files without touching your saves.
-Launcher 1.2 and later reuse verified chunks of installed game data for releases
-packaged with the newer tools, reducing patch downloads. First installs require the
-full content; older published packages still use whole-file updates.
+District Red is now made with Unreal Engine. It needs a recent graphics card, about
+14 GB of memory and about 4 GB of free disk space (the download is about 1.5 GB). The
+first time a new build starts, Windows may ask whether UnrealGame may use the network:
+choose **Cancel**, the game does not need it.
 
-Godot, Blender and a GitHub account are not required. The launcher uses .NET
-Framework 4.8, included in current Windows 10/11 installations.
+Window mode, resolution and frame limit are saved automatically. An installed game can
+be played offline. Interrupted downloads can be retried; completed parts are retained.
+**Repair** replaces damaged game files without touching your saves. Updates reuse
+verified pieces of the installed game and download only what changed.
 
-The campaign supports solo play and host/join co-op, with proximity/radio voice.
-Co-op remains a playtest: extended four-player and WAN acceptance are still pending.
-Close the game before a game update. Launcher-only updates can run while the game
-stays open. Launcher 1.1 and later check and update themselves separately, with verified
-downloads and rollback if startup fails. Older launchers need this one-time download
-to get the new **Update launcher** option; existing settings and game files are kept.
+The launcher uses .NET Framework 4.8, included in current Windows 10/11 installations;
+no other software or GitHub account is needed. Close the game before a game update.
+Launcher-only updates can run while the game stays open. Launcher 1.1 and later check
+and update themselves, with verified downloads and rollback if startup fails. Older
+launchers need this one-time download; existing settings and game files are kept.
 
-Game saves: `%APPDATA%\ZHIVI Playtest`
-Game installation: `%LOCALAPPDATA%\ZHIVI\Launcher`
+**Godot version.** The original Godot version of District Red, with its co-op campaign,
+stays available on the launcher's **GODOT VERSION** tab, but it is no longer in
+development.
+
+District Red saves: `%LOCALAPPDATA%\DistrictRed\Saved`
+District Red installation: `%LOCALAPPDATA%\ZHIVI\Launcher\unreal`
+Godot version saves and installation: `%APPDATA%\ZHIVI Playtest`, `%LOCALAPPDATA%\ZHIVI\Launcher`
 
 This repository distributes compiled playtest builds. The development repository
 is separate. Individual game-asset and dependency notices are included with the game.
 
-[Release notes and earlier builds](https://github.com/jsgdigital1/zhivi-playtest/releases)
+[Release notes and earlier builds](https://github.com/jsgdigital1/district-red/releases)
