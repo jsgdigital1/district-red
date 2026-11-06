@@ -4,7 +4,7 @@ Windows playtest downloads.
 
 **Survive. Reclaim. Restore.**
 
-**[Download District Red Launcher](https://github.com/jsgdigital1/district-red/releases/download/launcher-v1.7.0/District.Red.Launcher.exe)**
+**[Download District Red Launcher](https://github.com/jsgdigital1/district-red/releases/download/launcher-v1.8.0/District.Red.Launcher.exe)**
 
 1. Save and open the launcher on a Windows 10/11 computer (64-bit).
 2. On the **DISTRICT RED** tab, choose **Install game**. Once the download finishes, choose **Play**.
@@ -22,7 +22,11 @@ be played offline. Interrupted downloads can be retried; completed parts are ret
 verified pieces of the installed game and download only what changed.
 
 The launcher uses .NET Framework 4.8, included in current Windows 10/11 installations;
-no other software or GitHub account is needed. Close the game before a game update.
+no GitHub account is needed. District Red on Unreal also needs the Microsoft Visual C++
+2015-2022 runtime (x64) at least as new as the installer the build ships
+(Engine/Extras/Redist/en-us/vc_redist.x64.exe). From launcher 1.8 the launcher compares the two before
+Play and, when the PC has none or an older one, offers **Install Windows runtime**, which runs that installer
+(Windows asks the player for permission). Close the game before a game update.
 Launcher-only updates can run while the game stays open. Launcher 1.1 and later check
 and update themselves, with verified downloads and rollback if startup fails. Older
 launchers need this one-time download; existing settings and game files are kept.
