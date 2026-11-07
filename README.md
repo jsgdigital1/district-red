@@ -4,7 +4,7 @@ Windows playtest downloads.
 
 **Survive. Reclaim. Restore.**
 
-**[Download District Red Launcher](https://github.com/jsgdigital1/district-red/releases/download/launcher-v1.9.0/District.Red.Launcher.exe)**
+**[Download District Red Launcher](https://github.com/jsgdigital1/district-red/releases/download/launcher-v1.9.1/District.Red.Launcher.exe)**
 
 1. Save and open the launcher on a Windows 10/11 computer (64-bit).
 2. On the **DISTRICT RED** tab, choose **Install game**. Once the download finishes, choose **Play**.
