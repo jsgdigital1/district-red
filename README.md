@@ -4,10 +4,10 @@ Windows playtest downloads.
 
 **Survive. Reclaim. Restore.**
 
-**[Download District Red Launcher](https://github.com/jsgdigital1/district-red/releases/download/launcher-v1.9.1/District.Red.Launcher.exe)**
+**[Download District Red Launcher](https://github.com/jsgdigital1/district-red/releases/download/launcher-v1.10.0/District.Red.Launcher.exe)**
 
 1. Save and open the launcher on a Windows 10/11 computer (64-bit).
-2. On the **DISTRICT RED** tab, choose **Install game**. Once the download finishes, choose **Play**.
+2. Choose **Install game**. Once the download finishes, choose **Play**.
 3. Open the launcher again to check for updates. Close the game before installing an update.
 4. When **Update launcher** appears, select it to update and reopen the launcher automatically.
 
@@ -31,9 +31,8 @@ Launcher-only updates can run while the game stays open. Launcher 1.1 and later 
 and update themselves, with verified downloads and rollback if startup fails. Older
 launchers need this one-time download; existing settings and game files are kept.
 
-**Godot version.** The original Godot version of District Red, with its co-op campaign,
-stays available on the launcher's **GODOT VERSION** tab, but it is no longer in
-development.
+**Godot version.** Launcher 1.10.0 and later no longer offer the original Godot version of
+District Red. An installed copy's files stay on the PC until you delete them.
 
 District Red saves: `%LOCALAPPDATA%\DistrictRed\Saved`
 District Red installation: `%LOCALAPPDATA%\ZHIVI\Launcher\unreal`
