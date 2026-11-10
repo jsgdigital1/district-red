@@ -4,7 +4,7 @@ Windows playtest downloads.
 
 **Survive. Reclaim. Restore.**
 
-**[Download District Red Launcher](https://github.com/jsgdigital1/district-red/releases/download/launcher-v1.10.0/District.Red.Launcher.exe)**
+**[Download District Red Launcher](https://github.com/jsgdigital1/district-red/releases/download/launcher-v1.11.0/District.Red.Launcher.exe)**
 
 1. Save and open the launcher on a Windows 10/11 computer (64-bit).
 2. Choose **Install game**. Once the download finishes, choose **Play**.
@@ -16,7 +16,8 @@ District Red is now made with Unreal Engine. It needs a recent graphics card, ab
 first time a new build starts, Windows may ask whether UnrealGame may use the network:
 choose **Cancel**, the game does not need it.
 
-Window mode, resolution and frame limit are saved automatically. An installed game can
+Window mode, resolution and frame limit are saved automatically, and the game's own Settings
+change the same values. An installed game can
 be played offline. Interrupted downloads can be retried; completed parts are retained.
 **Repair** replaces damaged game files without touching your saves. Updates reuse
 verified pieces of the installed game and download only what changed.
